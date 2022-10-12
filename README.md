@@ -1,2 +1,2 @@
-# super_hero
-this game is created by prince bihari. it is just for fun.......
+# super_hero_game
+super_hero
